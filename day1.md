@@ -57,7 +57,7 @@ The thing about this command is that the output is huge. There are thousands of 
 
 If you want to deploy the Ubuntu 20.04, you can run this command.
 
-`az vm create -g cloudskillsrg -n UbuntuVM2 --image Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:latest --admin-username rmira --generate-ssh-keys`
+`az vm create -g ResourceGroup -n VMName --image Canonical:0001-com-ubuntu-confidential-vm-focal:20_04-lts-cvm:latest --admin-username myusername --generate-ssh-keys`
 
 There are lots of images to choose from, and I'm still not sure the differences between them. I choose this one as an example for no particular reason. Notice the `latest` after the colon. It tells Azure to fetch the latest release.
 
