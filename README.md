@@ -11,3 +11,5 @@ The course was originally created by Steve Brorens and is now maintained by [Liv
 - [Day 0](day0.md): Creating your own server
 - [Day 1](day1.md): Get to know your server
 - [Day 2](day2.md): Basic navigation, the *man* pages, file hierarchy
+- [Day 3](day3.md): Working with sudo, uptime, timezones, changing your hostname
+
