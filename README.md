@@ -14,4 +14,5 @@ The course was originally created by Steve Brorens and is now maintained by [Liv
 - [Day 3](day3.md): Working with sudo, uptime, timezones, changing your hostname
 - [Day 4](day4.md): Installing software and exploring the file structure
 - [Day 5](day5.md): More or less...
+- [Day 6](day6.md): Editing with Vim
 
