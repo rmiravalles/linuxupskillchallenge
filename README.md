@@ -15,4 +15,5 @@ The course was originally created by Steve Brorens and is now maintained by [Liv
 - [Day 4](day4.md): Installing software and exploring the file structure
 - [Day 5](day5.md): More or less...
 - [Day 6](day6.md): Editing with Vim
-
+- [Day 7](day7.md): The server and its services
+- [Day 8](day8.md): The infamous "grep" command and other text processors
